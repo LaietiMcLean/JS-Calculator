@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    background: linear-gradient(to bottom, #3185fc, #f9dc5c);
+}
+
+*, *:after, *:before {
+    box-sizing: inherit;
+}
+
+body {
+
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
